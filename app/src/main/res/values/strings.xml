@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="photo1_photoghrapher">Eren Kacmaz</string>
+    <string name="photo2_photoghrapher">OpenArt</string>
+    <string name="photo3_photoghrapher">Ediz Kacmaz</string>
+    <string name="photo1_content">This photo taken from center of the earth</string>
+    <string name="photo2_content">Did you like it? It created by OpenArt</string>
+    <string name="photo3_content">My nephews objective</string>
+</resources>
